@@ -2,6 +2,8 @@
 
 This explain how to build JOGL 2.4 for Mac M1 with ARM64 processor and then extend the existing multiplatform release.
 
+Fixed: newt window.
+
 ## Repositories
 
 To allow keeping track of edits, Jogamp repository have been mirror here
